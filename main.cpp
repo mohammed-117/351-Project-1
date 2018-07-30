@@ -1,6 +1,5 @@
 /* Class 351 
-Team: Mohammed Hassnain
-      Vincent Campbell
+Contributions made by : Mohammed Hassnain & Vincent Campbell
 */
 
 #include <stdio.h>
